@@ -1,6 +1,5 @@
 # Library System Mei
-Library System Mei merupakan Website sistem perpustakaan dengan memanfaatkan Tailwind CSS untuk desain antarmuka pengguna. Dibangun dengan menggunakan bahasa pemrograman PHP, HTML, dan JavaScript.
-Website ini menyediakan fitur-fitur yang intuitif dan mudah digunakan. 
+Library System Mei adalah aplikasi sistem perpustakaan yang dibangun menggunakan bahasa pemrograman PHP, HTML, dan JavaScript. Aplikasi ini memanfaatkan Tailwind CSS untuk desain antarmuka pengguna yang responsif dan menarik. Dalam pengembangannya, Library System Mei mengimplementasikan konsep OOP (Object-Oriented Programming) untuk membangun struktur yang terstruktur dan terorganisir. 
 ## Fitur Utama 
 - Penambahan buku baru dengan informasi seperti judul, penulis, tahun terbit, ISBN, dan informasi penerbit.
 - Pencarian berdasarkan judul, penulis, atau tahun terbit.
